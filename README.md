@@ -7,7 +7,7 @@
 Ik ben student **Data Engineering** bij NOVI Hogeschool.
 Tijdens mijn opleiding leer ik programmeren met **Python** en werk ik aan kleine projecten om beter te begrijpen hoe je data kunt ophalen, verwerken en inzichtelijk maken.
 
-Ik vind het leuk om stap voor stap te leren bouwen met code — van simpele scripts tot programma’s die data analyseren of gebruikmaken van API’s.
+Ik vind het leuk om stap voor stap te leren bouwen met code, van simpele scripts tot programma’s die data analyseren of gebruikmaken van API’s.
 Mijn doel is om te groeien richting het werk van een Data Engineer, iemand die zorgt dat data betrouwbaar en bruikbaar wordt voor analyse.
 
 ---
