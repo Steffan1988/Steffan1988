@@ -39,11 +39,16 @@ Speelse CLI-app om exoplaneten te beheren en ruimtereizen te simuleren.
 
 ## ⚙️ Tools & Skills
 
-* Python (Pandas, Requests, JSON, argparse)
+* Python (functies, modules, error handling)
+* API’s (werken met JSON en `requests`)
+* Command Line Apps (input/output, gebruikersmenu’s)
 * Git & GitHub
-* API-integratie
-* Command Line Apps
-* Basiskennis SQL & Cloud (Foundation IT module)
+* Basiskennis IT, cloud en netwerken (Foundation IT)
+
+---
+
+Wil je dat ik deze versie meteen in de volledige README-tekst pas, zodat het geheel kloppend blijft?
+
 
 ---
 
