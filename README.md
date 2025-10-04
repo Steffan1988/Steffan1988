@@ -57,5 +57,5 @@ De komende maanden richt ik me volledig op **Data Science** en werk ik toe naar 
 
 ## Connect
 
-* [LinkedIn](https://www.linkedin.com/in/steffanboer)
+* [LinkedIn](https://www.linkedin.com/in/steffan-boer-0a1b5468)
 * [Website](https://steffanboer.card.co)
