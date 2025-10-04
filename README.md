@@ -4,7 +4,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Data%20Engineering-informational)
 ![Bootcamp](https://img.shields.io/badge/NOVI-Data%20Engineer%20Bootcamp-success)
 
-🎯 *Bootcamp student halfway to becoming a Data Engineer — building with Python, APIs, and data analysis.*  
+*Bootcamp student halfway to becoming a Data Engineer — building with Python, APIs, and data analysis.*  
 
 I’m a student **Data Engineering** at NOVI University of Applied Sciences (expected graduation: **Feb 2026**).  
 Currently halfway through my program, I enjoy turning ideas into working projects with **Python, APIs, and data**.  
@@ -13,7 +13,7 @@ that make processes smarter and more reliable.
 
 ---
 
-## 📚 Learning Journey
+## Learning Journey
 
 - ✅ **Foundation IT** (15 EC) – basics of IT, networking, security, and cloud  
 - ✅ **Programming Fundamentals** (15 EC) – Python, CLI apps, error handling, API integration  
