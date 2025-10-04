@@ -37,5 +37,5 @@ that make processes smarter and more reliable.
 ## 🤝 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/steffan-boer-0a1b5468/)
-- Check out my website [site](https://steffanboer.carrd.co/)   
+- [Learn more about me](https://steffanboer.carrd.co/)   
 - Always open to connect, learn, and collaborate on **data-driven projects** 🚀
