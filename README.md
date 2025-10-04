@@ -13,42 +13,7 @@ I like building **clean, interactive CLI apps**, integrating **APIs**, and prese
 
 ---
 
-## 🚀 Featured projects
-
-- **ASTRO-impact** – Interactive CLI simulation of asteroid impacts using NASA data  
-  https://github.com/Steffan1988/astro-impact
-
-- **currency-converter-cli** – Convert currencies with live exchange rates (.env + requests)  
-  https://github.com/Steffan1988/currency-converter-cli
-
-- **exo-cat** – Playful CLI app to manage exoplanets & simulate space travel  
-  https://github.com/Steffan1988/exo-cat
-
-- **grade-list-app** – Manage subjects & grades with JSON storage and stats  
-  https://github.com/Steffan1988/grade-list-app
-
-- **crypto-tools** – Caesar cipher encoder/decoder + password generator  
-  https://github.com/Steffan1988/crypto-tools
-
-- **uber-ride-cli** – Book rides, track history, and set preferences in a CLI  
-  https://github.com/Steffan1988/uber-ride-cli
-
----
-
-## 🧰 Tech I use a lot
-
-**Python**, CLI apps, **requests**, **python-dotenv**, **PrettyTable/ColorTable**, **pyfiglet**, **humanize**, JSON, error handling, data formatting, simple simulations.
-
----
-
-## 📊 Stats (auto-updating)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Steffan1988&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steffan1988&layout=compact)
-
----
-
 ## 🤝 Connect
 
-- LinkedIn: *(voeg hier je link toe)*  
+- LinkedIn: (https://www.linkedin.com/in/steffan-boer-0a1b5468/)
 - Always open to learn, collaborate, or get feedback on code!
