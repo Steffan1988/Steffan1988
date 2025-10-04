@@ -25,7 +25,6 @@ Ik bouw graag projecten waarmee ik leer hoe data slimmer en betrouwbaarder gemaa
 * [🌠 **ASTRO-impact**](https://github.com/Steffan1988/astro-impact) – simuleert asteroïde-inslagen met NASA-data
 * [🔐 **crypto-tools**](https://github.com/Steffan1988/crypto-tools) – coder/decoder & wachtwoordgenerator
 * [🪐 **eco-cat**](https://github.com/Steffan1988/eco-cat) – CLI-app over exoplaneten en ruimtevaart
-* [📊 **grade-list-app**](https://github.com/Steffan1988/grade-list-app) – cijfers beheren via een interactieve CLI
 
 ---
 
@@ -40,4 +39,3 @@ Mijn volgende stap is meer leren over data-analyse, SQL en cloud-tools (Azure).
 
 * [LinkedIn](https://www.linkedin.com/in/steffanboer)
 * [Website](https://steffanboer.card.co)
-* 📍 Stadskanaal, Nederland
