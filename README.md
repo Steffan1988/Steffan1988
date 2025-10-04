@@ -13,7 +13,7 @@ Ik bouw graag toepassingen waarmee ik leer hoe data slimmer en betrouwbaarder ge
 ## Skills
 
 * **Python** – functies, foutafhandeling, werken met API’s
-* **SQL / MySQL** – eerste ervaring met databases
+* **SQL / MySQL** – eerste ervaring met databases door eigen project op het werk
 * **CLI & GitHub** – command line apps en versiebeheer
 * **Data-integratie** – data ophalen, verwerken en combineren (in opleiding)
 * **Codekwaliteit & security** – duidelijke structuur, veilig omgaan met data
