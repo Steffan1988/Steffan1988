@@ -4,42 +4,38 @@
 ![Focus](https://img.shields.io/badge/Focus-Data%20Engineering-informational)
 ![Bootcamp](https://img.shields.io/badge/NOVI-Data%20Engineer%20Bootcamp-success)
 
-I’m an aspiring **Data Engineer** currently halfway through the *Data Engineering Bootcamp* at NOVI University of Applied Sciences.  
-After completing the *Programming Fundamentals* module (15 EC), I’m now diving into **Data Science (30 EC)** — focusing on data integration, analysis, and visualization.
+🎯 *Bootcamp student halfway to becoming a Data Engineer — building with Python, APIs, and data analysis.*  
 
-I enjoy turning complex data into clear insights and reliable solutions.  
-My long-term goal is to design and maintain **data pipelines** and **analytics systems** that help organizations make smarter, data-driven decisions.  
-
----
-
-## 🚀 Learning journey
-
-- 🎓 **Completed:** *Programming Fundamentals (15 EC)* — built several Python CLI apps and learned the core of structured programming  
-- 🛰️ **Final project:** [ASTRO-impact](https://github.com/Steffan1988/astro-impact) – simulate asteroid impacts with real NASA data  
-- 📊 **Now working on:** *Data Science leerlijn (30 EC)* – learning to process, clean, and analyze datasets for business insights  
-- 🔍 **Next goals:** ETL design, data pipelines, and data visualization tools (e.g., Power BI, Python, SQL)
+I’m a student **Data Engineering** at NOVI University of Applied Sciences (expected graduation: **Feb 2026**).  
+Currently halfway through my program, I enjoy turning ideas into working projects with **Python, APIs, and data**.  
+My ambition is to grow into a professional **Data Engineer** who builds data pipelines and analytics solutions  
+that make processes smarter and more reliable.  
 
 ---
 
-## 🧠 Projects
+## 📚 Learning Journey
 
-- **ASTRO-impact** – Interactive Python CLI simulation using NASA’s API  
-- **currency-converter-cli** – Currency converter with live API data and environment variables  
-- **crypto-tools** – Password generator and Caesar cipher encryption  
-- **grade-list-app** – Manage subjects and grades with JSON storage  
-- **exo-cat** – Fun exoplanet CLI manager with ASCII-art interface  
-- **uber-ride-cli** – Simple ride booking simulator
+- ✅ **Foundation IT** (15 EC) – basics of IT, networking, security, and cloud  
+- ✅ **Programming Fundamentals** (15 EC) – Python, CLI apps, error handling, API integration  
+- 🔄 **Currently:** *Data Science* (30 EC) – data integration, cleaning, analysis, statistics, visualization  
 
 ---
 
-## 🧰 Tech & Tools
+## 🚀 Featured Projects
 
-**Python**, **pandas**, **requests**, **PrettyTable**, **pyfiglet**, **humanize**, **dotenv**, **APIs**,  
-and starting to explore **data visualization**, **SQL**, and **ETL workflows**.
+- 🛰️ **[ASTRO-impact](https://github.com/Steffan1988/astro-impact)**  
+  Final project for *Programming Fundamentals* – simulate asteroid impacts with real NASA data (API integration, JSON, CLI, statistics)  
+
+- 🔐 **[crypto-tools](https://github.com/Steffan1988/crypto-tools)**  
+  Two small tools: a Caesar cipher encoder/decoder and a random password generator  
+
+- 🌌 **[exo-cat](https://github.com/Steffan1988/exo-cat)**  
+  Playful CLI app to manage exoplanets, simulate space travel, and explore spacecrafts  
 
 ---
 
 ## 🤝 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/steffan-boer-0a1b5468/)  
-- Always open to learn, collaborate, and grow in the field of **Data Engineering**.
+- [LinkedIn](https://www.linkedin.com/in/steffan-boer-0a1b5468/)
+- Check out my website [site](https://steffanboer.carrd.co/)   
+- Always open to connect, learn, and collaborate on **data-driven projects** 🚀
