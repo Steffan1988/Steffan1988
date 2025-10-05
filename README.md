@@ -43,7 +43,7 @@ Gebruikt API-integratie, JSON-verwerking en berekeningen op basis van datasets.
 **Andere projecten:**
 
 * [crypto-tools](https://github.com/Steffan1988/crypto-tools) – coder/decoder en wachtwoordgenerator
-* [eco-cat](https://github.com/Steffan1988/eco-cat) – CLI-app over exoplaneten en ruimtevaart
+* [exo-cat](https://github.com/Steffan1988/exo-cat) – CLI-app over exoplaneten en ruimtevaart
 
 ---
 
