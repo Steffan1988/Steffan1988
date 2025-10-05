@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![NOVI](https://img.shields.io/badge/NOVI-Data%20Engineer%20Bootcamp-success)
-![Focus](https://img.shields.io/badge/Focus-Data%20%26%20APIs-informational)
 
 Ik ben student **Data Engineering** aan **NOVI Hogeschool** (afronding februari 2026).
 In mijn opleiding leerde ik programmeren met **Python** en werk ik aan projecten met **API’s** en **data**.
