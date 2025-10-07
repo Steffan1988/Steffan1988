@@ -28,7 +28,7 @@ Verwachte afronding: februari 2026
 
 * Foundation IT (15 EC) – basiskennis IT, netwerken, security en cloud
 * Programming Fundamentals (15 EC) – Python, API’s, JSON, CLI en programmeerlogica
-* Data Science & Engineering (30 EC) – data-analyse, machine learning, automatisering en eindopdracht
+* Data Science (30 EC) – data-analyse, machine learning, automatisering en eindopdracht
 
 ---
 
